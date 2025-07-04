@@ -1,0 +1,21 @@
+{
+  "name": "tcp-kvdb",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": ["dist"],
+  "keywords": ["tcp", "kv", "key-value", "database", "typescript"],
+  "author": "Your Name",
+  "license": "MIT",
+  
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
