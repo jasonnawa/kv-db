@@ -8,7 +8,7 @@
   },
   "files": ["dist"],
   "keywords": ["tcp", "kv", "key-value", "database", "typescript"],
-  "author": "Your Name",
+  "author": "Jason Osikoya",
   "license": "MIT",
   
   "devDependencies": {
